@@ -1,0 +1,12 @@
+{
+  "name": "eldrick",
+  "version": "1.0.0",
+  "description": "ELDRICK golf club fitting: drivers, fairway woods, hybrids, irons and wedges matched to real heads, shafts and grips, plus club search, comparisons, fit scores and store links.",
+  "mcpServers": {
+    "eldrick": {
+      "httpUrl": "https://api.eldrick.com/mcp",
+      "timeout": 120000
+    }
+  },
+  "contextFileName": "ELDRICK.md"
+}
